@@ -1,6 +1,6 @@
 # Getting Started with an IDE
 
-An IDE, an Integrated Deelopment Environment, is a type of text editor specifically
+An IDE, an Integrated Development Environment, is a type of text editor specifically
 for programming. There are two that you can use in our courses:
 
 * We recommend [Visual Studio Code](https://code.visualstudio.com/download).
